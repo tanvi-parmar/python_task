@@ -71,7 +71,7 @@ print(f"Sine of 90 degrees: {math.sin(angle)}")
 #11. find power
 import math
 result = math.pow(5, 4)
-print(f"10 to the power of 4 is: {result}")
+print(f"5 to the power of 4 is: {result}")
 
 #12.check positive or negative number
 
